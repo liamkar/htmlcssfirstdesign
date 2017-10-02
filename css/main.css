@@ -16,7 +16,12 @@
   }
 }
 
-
+.top {
+  border-bottom-color: #BCBBBB;
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  padding-bottom: 10px;
+}
 
 .grid {
     margin: 0 auto;
